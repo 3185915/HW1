@@ -3,7 +3,7 @@
 本项目在 EuroSAT RGB 数据集上，**不使用任何深度学习框架**（如 PyTorch/TensorFlow），仅用 NumPy 从零实现了包含一个隐藏层的全连接神经网络，并完成了超参数搜索、训练、验证、测试以及可视化分析。
 
 ## 项目结构
-├── sdxxdyczy-eurosatrgb.ipynb # 代码文件
+├── sdxxdyczy-eurosatrgb.ipynb # 代码文件（代码在kaggle平台上运行）
 ├── error_analysis.png # 错例分析图
 ├── first_layer_filters.png # 权重可视化图
 ├── training_curves.png # Loss曲线&Accuracy曲线
